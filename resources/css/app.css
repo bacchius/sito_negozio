@@ -1,3 +1,2 @@
-@import '~bootstrap/dist/css/bootstrap';
-
 @import url('./style.css');
+@import '~bootstrap/dist/css/bootstrap';
